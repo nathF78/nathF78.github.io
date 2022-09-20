@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FFT on Nathan&#39;s Portfolio</title>
+    <link>http://localhost:1313/tags/fft/</link>
+    <description>Recent content in FFT on Nathan&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Apr 2021 22:53:58 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/fft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TIPE : Differents image compression algorithms study</title>
+      <link>http://localhost:1313/schoolprojects/tipe-differents-image-compression-algorithms-study/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      
+      <guid>http://localhost:1313/schoolprojects/tipe-differents-image-compression-algorithms-study/</guid>
+      <description>Personnal Project during my CPGE. A video being a series of images, studying the method used by the jpeg format to compress them would allow us to understand the fundamentals of lossy image compression, but also to see how to adapt its operation to meet new challenges.
+You can appreciate here my final presentation on this project.</description>
+    </item>
+    
+  </channel>
+</rss>
