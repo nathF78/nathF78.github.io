@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team Work on Nathan&#39;s Portfolio</title>
+    <link>http://localhost:1313/tags/team-work/</link>
+    <description>Recent content in Team Work on Nathan&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Apr 2021 22:53:58 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/team-work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DVB-RCS signal transmission simulation</title>
+      <link>http://localhost:1313/schoolprojects/dvb-rcs-signal-transmission-simulation/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      
+      <guid>http://localhost:1313/schoolprojects/dvb-rcs-signal-transmission-simulation/</guid>
+      <description>The goal of this project was to simulate a DVB-RCS signal transmission and find the name of one of our teacher at the end of the transmission channel.
+You can see here my report on this project.</description>
+    </item>
+    
+    <item>
+      <title>Huffman tree compression algorihtm</title>
+      <link>http://localhost:1313/schoolprojects/huffman-compression-algorithm/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      
+      <guid>http://localhost:1313/schoolprojects/huffman-compression-algorithm/</guid>
+      <description>ADA95 project where we had to code a compression algorithm using the Huffman Tree.
+You can see here the my last report on this subject.</description>
+    </item>
+    
+    <item>
+      <title>Spotiplay</title>
+      <link>http://localhost:1313/schoolprojects/spotiplay/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      
+      <guid>http://localhost:1313/schoolprojects/spotiplay/</guid>
+      <description>The goal of the project was to make a music playing application. In our daily life, music is with us constantly (travel, relaxation, work, parties &amp;hellip;). Nevertheless, we are used to listen to compressed music of lower quality than in the past. Indeed, the streaming platforms (predominant on this market today) are compelled to compress their audio files in order not to overload the servers and the internet connection. But some users want to listen to music in CD quality.</description>
+    </item>
+    
+  </channel>
+</rss>

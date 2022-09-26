@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ADA95 on Nathan&#39;s Portfolio</title>
+    <link>http://localhost:1313/tags/ada95/</link>
+    <description>Recent content in ADA95 on Nathan&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Apr 2021 22:53:58 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/ada95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Huffman tree compression algorihtm</title>
+      <link>http://localhost:1313/schoolprojects/huffman-compression-algorithm/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      
+      <guid>http://localhost:1313/schoolprojects/huffman-compression-algorithm/</guid>
+      <description>ADA95 project where we had to code a compression algorithm using the Huffman Tree.
+You can see here the my last report on this subject.</description>
+    </item>
+    
+  </channel>
+</rss>
