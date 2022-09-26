@@ -19,10 +19,10 @@ You can see here the subject i were given.</description>
     
     <item>
       <title>Spotiplay</title>
-      <link>http://localhost:1313/schoolprojects/spotiplay/</link>
+      <link>http://localhost:1313/personalprojects/spotiplay/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
       
-      <guid>http://localhost:1313/schoolprojects/spotiplay/</guid>
+      <guid>http://localhost:1313/personalprojects/spotiplay/</guid>
       <description>The goal of the project was to make a music playing application. In our daily life, music is with us constantly (travel, relaxation, work, parties &amp;hellip;). Nevertheless, we are used to listen to compressed music of lower quality than in the past. Indeed, the streaming platforms (predominant on this market today) are compelled to compress their audio files in order not to overload the servers and the internet connection. But some users want to listen to music in CD quality.</description>
     </item>
     

@@ -47,24 +47,5 @@ You can see here the my last report on this subject.</description>
 You can appreciate here my final report on this project.</description>
     </item>
     
-    <item>
-      <title>Spotiplay</title>
-      <link>http://localhost:1313/schoolprojects/spotiplay/</link>
-      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
-      
-      <guid>http://localhost:1313/schoolprojects/spotiplay/</guid>
-      <description>The goal of the project was to make a music playing application. In our daily life, music is with us constantly (travel, relaxation, work, parties &amp;hellip;). Nevertheless, we are used to listen to compressed music of lower quality than in the past. Indeed, the streaming platforms (predominant on this market today) are compelled to compress their audio files in order not to overload the servers and the internet connection. But some users want to listen to music in CD quality.</description>
-    </item>
-    
-    <item>
-      <title>TIPE : Differents image compression algorithms study</title>
-      <link>http://localhost:1313/schoolprojects/tipe-differents-image-compression-algorithms-study/</link>
-      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
-      
-      <guid>http://localhost:1313/schoolprojects/tipe-differents-image-compression-algorithms-study/</guid>
-      <description>Personnal Project during my CPGE. A video being a series of images, studying the method used by the jpeg format to compress them would allow us to understand the fundamentals of lossy image compression, but also to see how to adapt its operation to meet new challenges.
-You can appreciate here my final presentation on this project.</description>
-    </item>
-    
   </channel>
 </rss>
