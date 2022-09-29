@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PersonalProjects on Nathan&#39;s Portfolio</title>
-    <link>http://localhost:1313/personalprojects/</link>
+    <link>https://nathf78.github.io/personalprojects/</link>
     <description>Recent content in PersonalProjects on Nathan&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Apr 2021 22:53:58 +0530</lastBuildDate><atom:link href="http://localhost:1313/personalprojects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Apr 2021 22:53:58 +0530</lastBuildDate><atom:link href="https://nathf78.github.io/personalprojects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mes Histoires</title>
-      <link>http://localhost:1313/personalprojects/meshistoires/</link>
+      <link>https://nathf78.github.io/personalprojects/meshistoires/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
       
-      <guid>http://localhost:1313/personalprojects/meshistoires/</guid>
+      <guid>https://nathf78.github.io/personalprojects/meshistoires/</guid>
       <description>Personnal Project codded for a kindergarden. The application is coded using electron and web based programming languages. The Application was needed for a kindergarden because some teachers wanted to have their young student to be able to listen by themselves the nurseries rhyms and musics listened before in class. This app is simply a really simple music player with big buttons adapted to be used by children.</description>
     </item>
     
     <item>
       <title>Spotiplay</title>
-      <link>http://localhost:1313/personalprojects/spotiplay/</link>
+      <link>https://nathf78.github.io/personalprojects/spotiplay/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
       
-      <guid>http://localhost:1313/personalprojects/spotiplay/</guid>
+      <guid>https://nathf78.github.io/personalprojects/spotiplay/</guid>
       <description>The goal of the project was to make a music playing application. In our daily life, music is with us constantly (travel, relaxation, work, parties &amp;hellip;). Nevertheless, we are used to listen to compressed music of lower quality than in the past. Indeed, the streaming platforms (predominant on this market today) are compelled to compress their audio files in order not to overload the servers and the internet connection. But some users want to listen to music in CD quality.</description>
     </item>
     
     <item>
       <title>TIPE : Differents image compression algorithms study</title>
-      <link>http://localhost:1313/personalprojects/tipe-differents-image-compression-algorithms-study/</link>
+      <link>https://nathf78.github.io/personalprojects/tipe-differents-image-compression-algorithms-study/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
       
-      <guid>http://localhost:1313/personalprojects/tipe-differents-image-compression-algorithms-study/</guid>
+      <guid>https://nathf78.github.io/personalprojects/tipe-differents-image-compression-algorithms-study/</guid>
       <description>Personnal Project during my CPGE. A video being a series of images, studying the method used by the jpeg format to compress them would allow us to understand the fundamentals of lossy image compression, but also to see how to adapt its operation to meet new challenges.
 You can appreciate here my final presentation on this project.</description>
     </item>

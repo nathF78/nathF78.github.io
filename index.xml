@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nathan&#39;s Portfolio</title>
-    <link>http://localhost:1313/</link>
+    <link>https://nathf78.github.io/</link>
     <description>Recent content on Nathan&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Apr 2021 22:53:58 +0530</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Apr 2021 22:53:58 +0530</lastBuildDate><atom:link href="https://nathf78.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>13 Matches game</title>
-      <link>http://localhost:1313/schoolprojects/13-matches-game/</link>
+      <link>https://nathf78.github.io/schoolprojects/13-matches-game/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
       
-      <guid>http://localhost:1313/schoolprojects/13-matches-game/</guid>
+      <guid>https://nathf78.github.io/schoolprojects/13-matches-game/</guid>
       <description>Java project about a little game with matches.
 You can see here the subject i were given.</description>
     </item>
     
     <item>
       <title>DVB-RCS signal transmission simulation</title>
-      <link>http://localhost:1313/schoolprojects/dvb-rcs-signal-transmission-simulation/</link>
+      <link>https://nathf78.github.io/schoolprojects/dvb-rcs-signal-transmission-simulation/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
       
-      <guid>http://localhost:1313/schoolprojects/dvb-rcs-signal-transmission-simulation/</guid>
+      <guid>https://nathf78.github.io/schoolprojects/dvb-rcs-signal-transmission-simulation/</guid>
       <description>The goal of this project was to simulate a DVB-RCS signal transmission and find the name of one of our teacher at the end of the transmission channel.
 You can see here my report on this project.</description>
     </item>
     
     <item>
       <title>Emoji Support</title>
-      <link>http://localhost:1313/blogs/my-2nd-posts/</link>
+      <link>https://nathf78.github.io/blogs/my-2nd-posts/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
       
-      <guid>http://localhost:1313/blogs/my-2nd-posts/</guid>
+      <guid>https://nathf78.github.io/blogs/my-2nd-posts/</guid>
       <description>Emoji can be enabled in a Hugo project in a number of ways. :zap:
 Emoji Support The emojify function can be called directly in templates or Inline Shortcodes.
 To enable emoji globally, set enableEmoji to true in your site’s configuration and then you can type emoji shorthand codes directly in content files; e.g.
@@ -42,48 +42,48 @@ N.B. The above steps enable Unicode Standard emoji characters and sequences in H
     
     <item>
       <title>Huffman tree compression algorihtm</title>
-      <link>http://localhost:1313/schoolprojects/huffman-compression-algorithm/</link>
+      <link>https://nathf78.github.io/schoolprojects/huffman-compression-algorithm/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
       
-      <guid>http://localhost:1313/schoolprojects/huffman-compression-algorithm/</guid>
+      <guid>https://nathf78.github.io/schoolprojects/huffman-compression-algorithm/</guid>
       <description>ADA95 project where we had to code a compression algorithm using the Huffman Tree.
 You can see here the my last report on this subject.</description>
     </item>
     
     <item>
       <title>Mes Histoires</title>
-      <link>http://localhost:1313/personalprojects/meshistoires/</link>
+      <link>https://nathf78.github.io/personalprojects/meshistoires/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
       
-      <guid>http://localhost:1313/personalprojects/meshistoires/</guid>
+      <guid>https://nathf78.github.io/personalprojects/meshistoires/</guid>
       <description>Personnal Project codded for a kindergarden. The application is coded using electron and web based programming languages. The Application was needed for a kindergarden because some teachers wanted to have their young student to be able to listen by themselves the nurseries rhyms and musics listened before in class. This app is simply a really simple music player with big buttons adapted to be used by children.</description>
     </item>
     
     <item>
       <title>Minishell</title>
-      <link>http://localhost:1313/schoolprojects/minishell/</link>
+      <link>https://nathf78.github.io/schoolprojects/minishell/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
       
-      <guid>http://localhost:1313/schoolprojects/minishell/</guid>
+      <guid>https://nathf78.github.io/schoolprojects/minishell/</guid>
       <description>Unix Shell coded in C
 You can appreciate here my final report on this project.</description>
     </item>
     
     <item>
       <title>Spotiplay</title>
-      <link>http://localhost:1313/personalprojects/spotiplay/</link>
+      <link>https://nathf78.github.io/personalprojects/spotiplay/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
       
-      <guid>http://localhost:1313/personalprojects/spotiplay/</guid>
+      <guid>https://nathf78.github.io/personalprojects/spotiplay/</guid>
       <description>The goal of the project was to make a music playing application. In our daily life, music is with us constantly (travel, relaxation, work, parties &amp;hellip;). Nevertheless, we are used to listen to compressed music of lower quality than in the past. Indeed, the streaming platforms (predominant on this market today) are compelled to compress their audio files in order not to overload the servers and the internet connection. But some users want to listen to music in CD quality.</description>
     </item>
     
     <item>
       <title>TIPE : Differents image compression algorithms study</title>
-      <link>http://localhost:1313/personalprojects/tipe-differents-image-compression-algorithms-study/</link>
+      <link>https://nathf78.github.io/personalprojects/tipe-differents-image-compression-algorithms-study/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
       
-      <guid>http://localhost:1313/personalprojects/tipe-differents-image-compression-algorithms-study/</guid>
+      <guid>https://nathf78.github.io/personalprojects/tipe-differents-image-compression-algorithms-study/</guid>
       <description>Personnal Project during my CPGE. A video being a series of images, studying the method used by the jpeg format to compress them would allow us to understand the fundamentals of lossy image compression, but also to see how to adapt its operation to meet new challenges.
 You can appreciate here my final presentation on this project.</description>
     </item>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C on Nathan&#39;s Portfolio</title>
-    <link>http://localhost:1313/tags/c/</link>
+    <link>https://nathf78.github.io/tags/c/</link>
     <description>Recent content in C on Nathan&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Apr 2021 22:53:58 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/c/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Apr 2021 22:53:58 +0530</lastBuildDate><atom:link href="https://nathf78.github.io/tags/c/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Minishell</title>
-      <link>http://localhost:1313/schoolprojects/minishell/</link>
+      <link>https://nathf78.github.io/schoolprojects/minishell/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
       
-      <guid>http://localhost:1313/schoolprojects/minishell/</guid>
+      <guid>https://nathf78.github.io/schoolprojects/minishell/</guid>
       <description>Unix Shell coded in C
 You can appreciate here my final report on this project.</description>
     </item>

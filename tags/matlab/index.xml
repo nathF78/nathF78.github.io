@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matlab on Nathan&#39;s Portfolio</title>
-    <link>http://localhost:1313/tags/matlab/</link>
+    <link>https://nathf78.github.io/tags/matlab/</link>
     <description>Recent content in Matlab on Nathan&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Apr 2021 22:53:58 +0530</lastBuildDate><atom:link href="http://localhost:1313/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Apr 2021 22:53:58 +0530</lastBuildDate><atom:link href="https://nathf78.github.io/tags/matlab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DVB-RCS signal transmission simulation</title>
-      <link>http://localhost:1313/schoolprojects/dvb-rcs-signal-transmission-simulation/</link>
+      <link>https://nathf78.github.io/schoolprojects/dvb-rcs-signal-transmission-simulation/</link>
       <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
       
-      <guid>http://localhost:1313/schoolprojects/dvb-rcs-signal-transmission-simulation/</guid>
+      <guid>https://nathf78.github.io/schoolprojects/dvb-rcs-signal-transmission-simulation/</guid>
       <description>The goal of this project was to simulate a DVB-RCS signal transmission and find the name of one of our teacher at the end of the transmission channel.
 You can see here my report on this project.</description>
     </item>
