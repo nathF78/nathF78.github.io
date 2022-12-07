@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SchoolProjects on Nathan&#39;s Portfolio</title>
+    <link>https://nathf78.github.io/enseeiht/schoolprojects/</link>
+    <description>Recent content in SchoolProjects on Nathan&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Apr 2021 22:53:58 +0530</lastBuildDate><atom:link href="https://nathf78.github.io/enseeiht/schoolprojects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>13 Matches game</title>
+      <link>https://nathf78.github.io/enseeiht/schoolprojects/13-matches-game/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      
+      <guid>https://nathf78.github.io/enseeiht/schoolprojects/13-matches-game/</guid>
+      <description>Java project about a little game with matches.
+You can see here the subject i were given.</description>
+    </item>
+    
+    <item>
+      <title>DVB-RCS signal transmission simulation</title>
+      <link>https://nathf78.github.io/enseeiht/schoolprojects/dvb-rcs-signal-transmission-simulation/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      
+      <guid>https://nathf78.github.io/enseeiht/schoolprojects/dvb-rcs-signal-transmission-simulation/</guid>
+      <description>The goal of this project was to simulate a DVB-RCS signal transmission and find the name of one of our teacher at the end of the transmission channel.
+You can see here my report on this project.</description>
+    </item>
+    
+    <item>
+      <title>Huffman tree compression algorihtm</title>
+      <link>https://nathf78.github.io/enseeiht/schoolprojects/huffman-compression-algorithm/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      
+      <guid>https://nathf78.github.io/enseeiht/schoolprojects/huffman-compression-algorithm/</guid>
+      <description>ADA95 project where we had to code a compression algorithm using the Huffman Tree.
+You can see here the my last report on this subject.</description>
+    </item>
+    
+    <item>
+      <title>Minishell</title>
+      <link>https://nathf78.github.io/enseeiht/schoolprojects/minishell/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      
+      <guid>https://nathf78.github.io/enseeiht/schoolprojects/minishell/</guid>
+      <description>Unix Shell coded in C
+You can appreciate here my final report on this project.</description>
+    </item>
+    
+  </channel>
+</rss>

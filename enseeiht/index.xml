@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nathan&#39;s Portfolio</title>
+    <link>https://nathf78.github.io/enseeiht/</link>
+    <description>Recent content on Nathan&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Dec 2022 13:29:51 +0100</lastBuildDate><atom:link href="https://nathf78.github.io/enseeiht/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interview</title>
+      <link>https://nathf78.github.io/enseeiht/cam/interview/</link>
+      <pubDate>Wed, 07 Dec 2022 13:29:51 +0100</pubDate>
+      
+      <guid>https://nathf78.github.io/enseeiht/cam/interview/</guid>
+      <description>Can you tell me about your academic background ? -CPGE -Art et Métiers Paris, graduated in 1987
+Have you worked for another compagnie before PSA, newlie named STELLANTIS ? No, I started in PSA as a maintenance manager in the Est side of France. After that I earned more and more autonomy/responsibility in the compagnie and moved to the head Office in La Défense in 2001. For my generation it was pretty common to stay in the same compagnie for a long time.</description>
+    </item>
+    
+    <item>
+      <title>1st Year Summer Job</title>
+      <link>https://nathf78.github.io/enseeiht/professionalprojects/1st-year-internship/</link>
+      <pubDate>Tue, 06 Dec 2022 20:44:48 +0100</pubDate>
+      
+      <guid>https://nathf78.github.io/enseeiht/professionalprojects/1st-year-internship/</guid>
+      <description>Aknowlegments First of all, I would like to thank my boss, Mr. Dubois Marc, for giving me the opportunity to work in his company. I would also like to thank my colleagues for their help and their kindness.
+Also I would like to thank the clients for their understanding and their patience during my first days.
+Introduction Compagnie Presentation Marché Frais Orgeval is a company that sells fresh products. It is located in Orgeval, a small town in the Yvelines department.</description>
+    </item>
+    
+    <item>
+      <title>13 Matches game</title>
+      <link>https://nathf78.github.io/enseeiht/schoolprojects/13-matches-game/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      
+      <guid>https://nathf78.github.io/enseeiht/schoolprojects/13-matches-game/</guid>
+      <description>Java project about a little game with matches.
+You can see here the subject i were given.</description>
+    </item>
+    
+    <item>
+      <title>DVB-RCS signal transmission simulation</title>
+      <link>https://nathf78.github.io/enseeiht/schoolprojects/dvb-rcs-signal-transmission-simulation/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      
+      <guid>https://nathf78.github.io/enseeiht/schoolprojects/dvb-rcs-signal-transmission-simulation/</guid>
+      <description>The goal of this project was to simulate a DVB-RCS signal transmission and find the name of one of our teacher at the end of the transmission channel.
+You can see here my report on this project.</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://nathf78.github.io/enseeiht/blogs/my-2nd-posts/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      
+      <guid>https://nathf78.github.io/enseeiht/blogs/my-2nd-posts/</guid>
+      <description>Emoji can be enabled in a Hugo project in a number of ways. :zap:
+Emoji Support The emojify function can be called directly in templates or Inline Shortcodes.
+To enable emoji globally, set enableEmoji to true in your site’s configuration and then you can type emoji shorthand codes directly in content files; e.g.
+The Emoji cheat sheet is a useful reference for emoji shorthand codes.
+N.B. The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform.</description>
+    </item>
+    
+    <item>
+      <title>Huffman tree compression algorihtm</title>
+      <link>https://nathf78.github.io/enseeiht/schoolprojects/huffman-compression-algorithm/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      
+      <guid>https://nathf78.github.io/enseeiht/schoolprojects/huffman-compression-algorithm/</guid>
+      <description>ADA95 project where we had to code a compression algorithm using the Huffman Tree.
+You can see here the my last report on this subject.</description>
+    </item>
+    
+    <item>
+      <title>Mes Histoires</title>
+      <link>https://nathf78.github.io/enseeiht/personalprojects/meshistoires/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      
+      <guid>https://nathf78.github.io/enseeiht/personalprojects/meshistoires/</guid>
+      <description>Personnal Project codded for a kindergarden. The application is coded using electron and web based programming languages. The Application was needed for a kindergarden because some teachers wanted to have their young student to be able to listen by themselves the nurseries rhyms and musics listened before in class. This app is simply a really simple music player with big buttons adapted to be used by children.</description>
+    </item>
+    
+    <item>
+      <title>Minishell</title>
+      <link>https://nathf78.github.io/enseeiht/schoolprojects/minishell/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      
+      <guid>https://nathf78.github.io/enseeiht/schoolprojects/minishell/</guid>
+      <description>Unix Shell coded in C
+You can appreciate here my final report on this project.</description>
+    </item>
+    
+    <item>
+      <title>Spotiplay</title>
+      <link>https://nathf78.github.io/enseeiht/personalprojects/spotiplay/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      
+      <guid>https://nathf78.github.io/enseeiht/personalprojects/spotiplay/</guid>
+      <description>The goal of the project was to make a music playing application. In our daily life, music is with us constantly (travel, relaxation, work, parties &amp;hellip;). Nevertheless, we are used to listen to compressed music of lower quality than in the past. Indeed, the streaming platforms (predominant on this market today) are compelled to compress their audio files in order not to overload the servers and the internet connection. But some users want to listen to music in CD quality.</description>
+    </item>
+    
+    <item>
+      <title>TIPE : Differents image compression algorithms study</title>
+      <link>https://nathf78.github.io/enseeiht/personalprojects/tipe-differents-image-compression-algorithms-study/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      
+      <guid>https://nathf78.github.io/enseeiht/personalprojects/tipe-differents-image-compression-algorithms-study/</guid>
+      <description>Personnal Project during my CPGE. A video being a series of images, studying the method used by the jpeg format to compress them would allow us to understand the fundamentals of lossy image compression, but also to see how to adapt its operation to meet new challenges.
+You can appreciate here my final presentation on this project.</description>
+    </item>
+    
+  </channel>
+</rss>

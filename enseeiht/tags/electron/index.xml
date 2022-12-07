@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electron on Nathan&#39;s Portfolio</title>
+    <link>https://nathf78.github.io/enseeiht/tags/electron/</link>
+    <description>Recent content in Electron on Nathan&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Apr 2021 22:53:58 +0530</lastBuildDate><atom:link href="https://nathf78.github.io/enseeiht/tags/electron/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mes Histoires</title>
+      <link>https://nathf78.github.io/enseeiht/personalprojects/meshistoires/</link>
+      <pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate>
+      
+      <guid>https://nathf78.github.io/enseeiht/personalprojects/meshistoires/</guid>
+      <description>Personnal Project codded for a kindergarden. The application is coded using electron and web based programming languages. The Application was needed for a kindergarden because some teachers wanted to have their young student to be able to listen by themselves the nurseries rhyms and musics listened before in class. This app is simply a really simple music player with big buttons adapted to be used by children.</description>
+    </item>
+    
+  </channel>
+</rss>
