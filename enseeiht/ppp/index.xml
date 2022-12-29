@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PPPs on Nathan&#39;s Portfolio</title>
+    <link>https://nathf78.github.io/enseeiht/ppp/</link>
+    <description>Recent content in PPPs on Nathan&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Dec 2022 16:27:48 +0100</lastBuildDate><atom:link href="https://nathf78.github.io/enseeiht/ppp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PPP Slides</title>
+      <link>https://nathf78.github.io/enseeiht/ppp/pppslides/</link>
+      <pubDate>Wed, 28 Dec 2022 16:27:48 +0100</pubDate>
+      
+      <guid>https://nathf78.github.io/enseeiht/ppp/pppslides/</guid>
+      <description>You can check the PPP presentation in pdf here.
+You can also check the PPP presentation in pptx here.</description>
+    </item>
+    
+    <item>
+      <title>Video and RoadMap</title>
+      <link>https://nathf78.github.io/enseeiht/ppp/video&#43;roadmap/</link>
+      <pubDate>Wed, 28 Dec 2022 16:26:13 +0100</pubDate>
+      
+      <guid>https://nathf78.github.io/enseeiht/ppp/video&#43;roadmap/</guid>
+      <description>You can appreciate here my roadmap and a little vidéo présenting it and my PPP.
+If the video is not displayed correctly, you can find it here</description>
+    </item>
+    
+    <item>
+      <title>Application File</title>
+      <link>https://nathf78.github.io/enseeiht/ppp/applicationfile/</link>
+      <pubDate>Wed, 28 Dec 2022 16:23:35 +0100</pubDate>
+      
+      <guid>https://nathf78.github.io/enseeiht/ppp/applicationfile/</guid>
+      <description>Application File I&amp;rsquo;m currently looking for an intership on summer 2023. Being passionate about CyberSecurity and Computer Networks I mostly candite for jobs in these two domains. Many big companies propose internship in those, here is an exmaple of my application for a job at Airbus.
+You can find the job ad here.
+You can find my application letter here.
+You can find my CV here.
+Yan can find my linkedin profile here.</description>
+    </item>
+    
+  </channel>
+</rss>
